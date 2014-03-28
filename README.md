@@ -1,4 +1,3 @@
-vimeo-embed
-===========
+# vimeo-embed
 
 vimeo embed
